@@ -1,2 +1,10 @@
 # Book-Recommendation-System
-Recommending the books to the users 
+Recommendation Assignment
+
+Contains following files:
+
+Problem statement
+
+book csv file
+
+Python solution file
